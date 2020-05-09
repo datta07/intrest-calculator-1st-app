@@ -1,0 +1,3 @@
+title= update_app
+author=<garuda>
+orientation=<portrait|landscape>

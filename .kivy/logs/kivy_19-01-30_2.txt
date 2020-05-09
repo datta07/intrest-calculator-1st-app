@@ -1,0 +1,56 @@
+[INFO              ] Logger: Record log in /storage/emulated/0/kivy/datta/.kivy/logs/kivy_19-01-30_2.txt
+[INFO              ] Kivy: v1.9.1
+[INFO              ] Python: v2.7.2 (default, Mar 20 2016, 23:30:13) 
+[GCC 4.8]
+[INFO              ] Factory: 179 symbols loaded
+[WARNING           ] stderr: /data/user/0/org.kivy.pygame/files/lib/python2.7/site-packages/kivy/core/image/img_pygame.py:13: RuntimeWarning: import cdrom: No module named cdrom
+[WARNING           ] stderr: (ImportError: No module named cdrom)
+[INFO              ] Image: Providers: img_tex, img_dds, img_gif, img_pygame, img_pil (img_ffpyplayer ignored)
+[INFO              ] Text: Provider: pygame
+[INFO              ] Window: Provider: pygame
+[INFO              ] GL: OpenGL version <OpenGL ES 3.2 v1.r18p0-00cet0.31096d938f6f64bb2ec1de8405ab6460>
+[INFO              ] GL: OpenGL vendor <ARM>
+[INFO              ] GL: OpenGL renderer <Mali-T880>
+[INFO              ] GL: OpenGL parsed version: 3, 2
+[INFO              ] GL: Texture max size <8192>
+[INFO              ] GL: Texture max units <16>
+[INFO              ] Support: Android install hooks
+[INFO              ] Window: virtual keyboard not allowed, single mode, not docked
+[INFO              ] GL: NPOT texture support is available
+[WARNING           ] stderr: /storage/emulated/0/kivy/datta/urllib3/util/ssl_.py:354: SNIMissingWarning: An HTTPS request has been made, but the SNI (Server Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+[WARNING           ] stderr:   SNIMissingWarning
+[WARNING           ] stderr: /storage/emulated/0/kivy/datta/urllib3/util/ssl_.py:150: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+[WARNING           ] stderr:   InsecurePlatformWarning
+[WARNING           ] stderr: /storage/emulated/0/kivy/datta/urllib3/util/ssl_.py:150: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+[WARNING           ] stderr:   InsecurePlatformWarning
+[WARNING           ] stderr: /storage/emulated/0/kivy/datta/urllib3/util/ssl_.py:150: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+[WARNING           ] stderr:   InsecurePlatformWarning
+[INFO              ] OSC: using <thread> for socket
+[INFO              ] Base: Start application main loop
+[INFO              ] Android: found 17 joystick
+[INFO              ] Android: create joystick <0>
+[INFO              ] Android: discard joystick <0> cause no button
+[INFO              ] Android: create joystick <1>
+[INFO              ] Android: create joystick <2>
+[INFO              ] Android: create joystick <3>
+[INFO              ] Android: create joystick <4>
+[INFO              ] Android: create joystick <5>
+[INFO              ] Android: create joystick <6>
+[INFO              ] Android: create joystick <7>
+[INFO              ] Android: create joystick <8>
+[INFO              ] Android: create joystick <9>
+[INFO              ] Android: create joystick <10>
+[INFO              ] Android: create joystick <11>
+[INFO              ] Android: create joystick <12>
+[INFO              ] Android: create joystick <13>
+[INFO              ] Android: create joystick <14>
+[INFO              ] Android: create joystick <15>
+[INFO              ] Android: create joystick <16>
+[INFO              ] Android: Must go into sleep mode, check the app
+[INFO              ] Android: App paused, now wait for resume.
+[INFO              ] Android: Android has resumed, resume the app.
+[INFO              ] Android: App resume completed.
+[WARNING           ] stderr: /storage/emulated/0/kivy/datta/urllib3/util/ssl_.py:150: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+[WARNING           ] stderr:   InsecurePlatformWarning
+[INFO              ] Android: Must go into sleep mode, check the app
+[INFO              ] Android: App paused, now wait for resume.
